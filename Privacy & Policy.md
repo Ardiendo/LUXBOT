@@ -1,4 +1,4 @@
-# Privacy & Policy
+# Terms & Services
 
 **Lux** Discord Bot Privacy Policy
 
