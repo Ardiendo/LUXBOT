@@ -1,0 +1,342 @@
+{
+    "users": {
+        "819080793447333918": {
+            "balance": 187017,
+            "inventory": [
+                {
+                    "id": "badge_silver",
+                    "name": "🥈 Medalla de Plata",
+                    "emoji": "🥈",
+                    "acquired": "2025-11-26T06:09:56.084949"
+                },
+                {
+                    "id": "crown",
+                    "name": "👑 Corona Real",
+                    "emoji": "👑",
+                    "acquired": "2025-11-26T06:10:58.621062"
+                },
+                {
+                    "id": "gem",
+                    "name": "💎 Gema Preciosa",
+                    "emoji": "💎",
+                    "acquired": "2025-11-26T06:17:35.153767"
+                },
+                {
+                    "id": "badge_gold",
+                    "name": "🏆 Medalla de Oro",
+                    "emoji": "🏆",
+                    "acquired": "2025-11-26T06:42:56.289622"
+                },
+                {
+                    "id": "lux_staff",
+                    "name": "🔱 Bastón de Lux",
+                    "emoji": "🔱",
+                    "acquired": "2025-11-26T07:02:04.434022"
+                },
+                {
+                    "id": "star_cosmic",
+                    "name": "⭐ Estrella Cósmica",
+                    "emoji": "⭐",
+                    "acquired": "2025-11-26T07:06:32.289000"
+                },
+                {
+                    "id": "gem_amethyst",
+                    "name": "💜 Amatista Púrpura",
+                    "emoji": "💜",
+                    "acquired": "2025-11-26T07:06:48.413073"
+                },
+                {
+                    "id": "gem_cosmic",
+                    "name": "🌌 Gema Cósmica",
+                    "emoji": "🌌",
+                    "acquired": "2025-11-26T07:19:23.477384"
+                },
+                {
+                    "id": "gem_diamond",
+                    "name": "✨ Diamante Puro",
+                    "emoji": "✨",
+                    "acquired": "2025-11-26T07:29:05.335081"
+                },
+                {
+                    "id": "crown_eternal",
+                    "name": "👑 Corona Eterna",
+                    "emoji": "👑",
+                    "acquired": "2025-11-26T07:29:14.549141"
+                },
+                {
+                    "id": "trophy_champion",
+                    "name": "🏆 Trofeo del Campeón",
+                    "emoji": "🏆",
+                    "acquired": "2025-11-26T07:58:30.833282"
+                },
+                {
+                    "id": "gem_cosmic",
+                    "name": "🌌 Gema Cósmica",
+                    "emoji": "🌌",
+                    "acquired": "2025-11-26T07:58:42.012029"
+                }
+            ],
+            "last_work": "2025-11-26T07:49:00.328197",
+            "last_daily": "2025-11-26T06:09:10.770459",
+            "total_earned": 202527,
+            "xp_total": 20,
+            "xp_level": 1,
+            "last_message_xp": "2025-11-26T08:08:45.843801"
+        },
+        "1443020324311535657": {
+            "balance": 1200,
+            "inventory": [
+                {
+                    "id": "infinite_energy",
+                    "name": "∞ Energía Infinita",
+                    "emoji": "∞",
+                    "acquired": "2025-11-26T08:02:09.305366"
+                }
+            ],
+            "last_work": null,
+            "last_daily": null,
+            "total_earned": 1200,
+            "xp_total": 0,
+            "xp_level": 1,
+            "last_message_xp": null
+        }
+    },
+    "transactions": [
+        {
+            "user_id": 819080793447333918,
+            "amount": 250,
+            "reason": "Bonus diario",
+            "timestamp": "2025-11-26T05:38:36.958317"
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 127,
+            "reason": "Trabajo",
+            "timestamp": "2025-11-26T05:38:39.762958"
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 4000,
+            "reason": "[DEV] Dado por _.aari._ (𝒜𝓇𝒹𝒾(yogur bebible version))",
+            "timestamp": "2025-11-26T05:39:36.403199"
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 129,
+            "reason": "Trabajo",
+            "timestamp": "2025-11-26T06:09:03.330477"
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 250,
+            "reason": "Bonus diario",
+            "timestamp": "2025-11-26T06:09:10.769724"
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": -300,
+            "reason": "Compra: 🥈 Medalla de Plata",
+            "timestamp": "2025-11-26T06:09:56.084168"
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 0,
+            "reason": "",
+            "timestamp": "2025-11-26T06:09:56.085799"
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 2000,
+            "reason": "[DEV] Dado por _.aari._ (𝒜𝓇𝒹𝒾(yogur bebible version))",
+            "timestamp": "2025-11-26T06:10:51.609366"
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": -1000,
+            "reason": "Compra: 👑 Corona Real",
+            "timestamp": "2025-11-26T06:10:58.620200"
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 0,
+            "reason": "",
+            "timestamp": "2025-11-26T06:10:58.626188"
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": -750,
+            "reason": "Compra: 💎 Gema Preciosa",
+            "timestamp": "2025-11-26T06:17:35.152712",
+            "old_balance": 1079,
+            "new_balance": 329
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 0,
+            "reason": "",
+            "timestamp": "2025-11-26T06:17:35.155728",
+            "old_balance": 329,
+            "new_balance": 329
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 200000,
+            "reason": "[DEV] Dado por _.aari._ (𝒜𝓇𝒹𝒾(yogur bebible version))",
+            "timestamp": "2025-11-26T06:42:37.452243",
+            "old_balance": 329,
+            "new_balance": 200329
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": -500,
+            "reason": "Compra: 🏆 Medalla de Oro",
+            "timestamp": "2025-11-26T06:42:56.288121",
+            "old_balance": 200329,
+            "new_balance": 199829
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 0,
+            "reason": "",
+            "timestamp": "2025-11-26T06:42:56.298886",
+            "old_balance": 199829,
+            "new_balance": 199829
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": -950,
+            "reason": "Compra: ⭐ Estrella Cósmica",
+            "timestamp": "2025-11-26T07:06:32.288047",
+            "old_balance": 199829,
+            "new_balance": 198879
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 0,
+            "reason": "",
+            "timestamp": "2025-11-26T07:06:32.294223",
+            "old_balance": 198879,
+            "new_balance": 198879
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": -510,
+            "reason": "Compra: 💜 Amatista Púrpura",
+            "timestamp": "2025-11-26T07:06:48.411698",
+            "old_balance": 198879,
+            "new_balance": 198369
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 0,
+            "reason": "",
+            "timestamp": "2025-11-26T07:06:48.418873",
+            "old_balance": 198369,
+            "new_balance": 198369
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": -2200,
+            "reason": "Compra: 🌌 Gema Cósmica",
+            "timestamp": "2025-11-26T07:19:23.475314",
+            "old_balance": 198369,
+            "new_balance": 196169
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 0,
+            "reason": "",
+            "timestamp": "2025-11-26T07:19:23.483250",
+            "old_balance": 196169,
+            "new_balance": 196169
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": -1500,
+            "reason": "Compra: ✨ Diamante Puro",
+            "timestamp": "2025-11-26T07:29:05.332719",
+            "old_balance": 196169,
+            "new_balance": 194669
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 0,
+            "reason": "",
+            "timestamp": "2025-11-26T07:29:05.337817",
+            "old_balance": 194669,
+            "new_balance": 194669
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": -2500,
+            "reason": "Compra: 👑 Corona Eterna",
+            "timestamp": "2025-11-26T07:29:14.547800",
+            "old_balance": 194669,
+            "new_balance": 192169
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 0,
+            "reason": "",
+            "timestamp": "2025-11-26T07:29:14.604067",
+            "old_balance": 192169,
+            "new_balance": 192169
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 148,
+            "reason": "Trabajo",
+            "timestamp": "2025-11-26T07:49:00.325838",
+            "old_balance": 192169,
+            "new_balance": 192317
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": -1900,
+            "reason": "Compra: 🏆 Trofeo del Campeón",
+            "timestamp": "2025-11-26T07:58:30.832107",
+            "old_balance": 192317,
+            "new_balance": 190417
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 0,
+            "reason": "",
+            "timestamp": "2025-11-26T07:58:30.839293",
+            "old_balance": 190417,
+            "new_balance": 190417
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": -2200,
+            "reason": "Compra: 🌌 Gema Cósmica",
+            "timestamp": "2025-11-26T07:58:42.010396",
+            "old_balance": 190417,
+            "new_balance": 188217
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": 0,
+            "reason": "",
+            "timestamp": "2025-11-26T07:58:42.018725",
+            "old_balance": 188217,
+            "new_balance": 188217
+        },
+        {
+            "user_id": 819080793447333918,
+            "amount": -1200,
+            "reason": "Transferencia a 1443020324311535657",
+            "timestamp": "2025-11-26T08:00:33.954796",
+            "old_balance": 188217,
+            "new_balance": 187017
+        },
+        {
+            "user_id": 1443020324311535657,
+            "amount": 1200,
+            "reason": "Transferencia de 819080793447333918",
+            "timestamp": "2025-11-26T08:00:33.961274",
+            "old_balance": 0,
+            "new_balance": 1200
+        }
+    ]
+}

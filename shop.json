@@ -1,0 +1,294 @@
+{
+    "items": [
+        {
+            "id": "badge_gold",
+            "name": "🏆 Medalla de Oro",
+            "price": 500,
+            "emoji": "🏆"
+        },
+        {
+            "id": "badge_silver",
+            "name": "🥈 Medalla de Plata",
+            "price": 300,
+            "emoji": "🥈"
+        },
+        {
+            "id": "badge_bronze",
+            "name": "🥉 Medalla de Bronce",
+            "price": 150,
+            "emoji": "🥉"
+        },
+        {
+            "id": "crown",
+            "name": "👑 Corona Real",
+            "price": 1000,
+            "emoji": "👑"
+        },
+        {
+            "id": "gem",
+            "name": "💎 Gema Preciosa",
+            "price": 750,
+            "emoji": "💎"
+        },
+        {
+            "id": "badge_platinum",
+            "name": "🥇 Medalla de Platino",
+            "price": 1200,
+            "emoji": "🥇",
+            "rarity": "épico"
+        },
+        {
+            "id": "crown_simple",
+            "name": "👑 Corona Simple",
+            "price": 350,
+            "emoji": "👑",
+            "rarity": "raro"
+        },
+        {
+            "id": "crown_silver",
+            "name": "👑 Corona Plateada",
+            "price": 700,
+            "emoji": "👑",
+            "rarity": "épico"
+        },
+        {
+            "id": "crown_royal",
+            "name": "✨ Corona Real",
+            "price": 1000,
+            "emoji": "👑",
+            "rarity": "legendario"
+        },
+        {
+            "id": "crown_eternal",
+            "name": "👑 Corona Eterna",
+            "price": 2500,
+            "emoji": "👑",
+            "rarity": "legendario"
+        },
+        {
+            "id": "gem_ruby",
+            "name": "💎 Rubí Brillante",
+            "price": 400,
+            "emoji": "💎",
+            "rarity": "épico"
+        },
+        {
+            "id": "gem_sapphire",
+            "name": "💙 Zafiro Azul",
+            "price": 450,
+            "emoji": "💙",
+            "rarity": "épico"
+        },
+        {
+            "id": "gem_emerald",
+            "name": "💚 Esmeralda Verde",
+            "price": 420,
+            "emoji": "💚",
+            "rarity": "épico"
+        },
+        {
+            "id": "gem_topaz",
+            "name": "💛 Topacio Dorado",
+            "price": 480,
+            "emoji": "💛",
+            "rarity": "épico"
+        },
+        {
+            "id": "gem_amethyst",
+            "name": "💜 Amatista Púrpura",
+            "price": 510,
+            "emoji": "💜",
+            "rarity": "épico"
+        },
+        {
+            "id": "gem_diamond",
+            "name": "✨ Diamante Puro",
+            "price": 1500,
+            "emoji": "✨",
+            "rarity": "legendario"
+        },
+        {
+            "id": "gem_cosmic",
+            "name": "🌌 Gema Cósmica",
+            "price": 2200,
+            "emoji": "🌌",
+            "rarity": "legendario"
+        },
+        {
+            "id": "gem_radiant",
+            "name": "💫 Gema Radiante",
+            "price": 2300,
+            "emoji": "💫",
+            "rarity": "legendario"
+        },
+        {
+            "id": "trophy_silver",
+            "name": "🏅 Trofeo Plateado",
+            "price": 300,
+            "emoji": "🏅",
+            "rarity": "raro"
+        },
+        {
+            "id": "trophy_gold",
+            "name": "🎖️ Trofeo Dorado",
+            "price": 600,
+            "emoji": "🎖️",
+            "rarity": "épico"
+        },
+        {
+            "id": "trophy_platinum",
+            "name": "🏆 Trofeo de Platino",
+            "price": 1100,
+            "emoji": "🏆",
+            "rarity": "épico"
+        },
+        {
+            "id": "trophy_champion",
+            "name": "🏆 Trofeo del Campeón",
+            "price": 1900,
+            "emoji": "🏆",
+            "rarity": "legendario"
+        },
+        {
+            "id": "star_silver",
+            "name": "⭐ Estrella Plateada",
+            "price": 200,
+            "emoji": "⭐",
+            "rarity": "común"
+        },
+        {
+            "id": "star_golden",
+            "name": "🌟 Estrella Dorada",
+            "price": 550,
+            "emoji": "🌟",
+            "rarity": "épico"
+        },
+        {
+            "id": "star_cosmic",
+            "name": "⭐ Estrella Cósmica",
+            "price": 950,
+            "emoji": "⭐",
+            "rarity": "épico"
+        },
+        {
+            "id": "star_supernova",
+            "name": "💫 Supernova Brillante",
+            "price": 1700,
+            "emoji": "💫",
+            "rarity": "legendario"
+        },
+        {
+            "id": "sparkles",
+            "name": "✨ Destellos Mágicos",
+            "price": 800,
+            "emoji": "✨",
+            "rarity": "legendario"
+        },
+        {
+            "id": "sparkles_eternal",
+            "name": "✨ Destellos Eternos",
+            "price": 2400,
+            "emoji": "✨",
+            "rarity": "legendario"
+        },
+        {
+            "id": "light_beam",
+            "name": "⚡ Rayo de Luz",
+            "price": 750,
+            "emoji": "⚡",
+            "rarity": "épico"
+        },
+        {
+            "id": "light_burst",
+            "name": "💥 Explosión de Luz",
+            "price": 1400,
+            "emoji": "💥",
+            "rarity": "legendario"
+        },
+        {
+            "id": "crystal_shard",
+            "name": "🔷 Fragmento de Cristal",
+            "price": 300,
+            "emoji": "🔷",
+            "rarity": "raro"
+        },
+        {
+            "id": "crystal_pure",
+            "name": "🔹 Cristal Puro",
+            "price": 650,
+            "emoji": "🔹",
+            "rarity": "épico"
+        },
+        {
+            "id": "prisma",
+            "name": "🎆 Prisma de Luz",
+            "price": 1800,
+            "emoji": "🎆",
+            "rarity": "legendario"
+        },
+        {
+            "id": "prisma_celestial",
+            "name": "🎆 Prisma Celestial",
+            "price": 2600,
+            "emoji": "🎆",
+            "rarity": "legendario"
+        },
+        {
+            "id": "lux_charm",
+            "name": "🔮 Encanto de Lux",
+            "price": 2000,
+            "emoji": "🔮",
+            "rarity": "legendario"
+        },
+        {
+            "id": "lux_amulet",
+            "name": "🪬 Amuleto Luminoso",
+            "price": 2100,
+            "emoji": "🪬",
+            "rarity": "legendario"
+        },
+        {
+            "id": "lux_orb",
+            "name": "🌐 Orbe de Poder",
+            "price": 2700,
+            "emoji": "🌐",
+            "rarity": "legendario"
+        },
+        {
+            "id": "phoenix_feather",
+            "name": "🪶 Pluma de Fénix",
+            "price": 1350,
+            "emoji": "🪶",
+            "rarity": "épico"
+        },
+        {
+            "id": "celestial_wing",
+            "name": "🧊 Ala Celestial",
+            "price": 1600,
+            "emoji": "🧊",
+            "rarity": "épico"
+        },
+        {
+            "id": "divine_essence",
+            "name": "⚜️ Esencia Divina",
+            "price": 2800,
+            "emoji": "⚜️",
+            "rarity": "legendario"
+        },
+        {
+            "id": "infinite_energy",
+            "name": "∞ Energía Infinita",
+            "price": 3000,
+            "emoji": "∞",
+            "rarity": "legendario"
+        },
+        {
+            "id": "lux_staff",
+            "name": "🔱 Bastón de Lux",
+            "price": 0,
+            "emoji": "🔱",
+            "rarity": "exclusiva",
+            "dev_only": true
+        }
+    ]
+}
